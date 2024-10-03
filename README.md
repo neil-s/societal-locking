@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine:
 
 ## Database Connection
 
-The project uses the `pg` package to connect to a Postgres database. The connection is set up in `lib/db.js`. Make sure your Postgres server is running and accessible with the credentials provided in your `.env` file.
+The project uses the `pg` package to connect to a Postgres database. The connection is set up in `lib/db.js`. Make sure your Postgres server is running and accessible with the credentials provided in your `.env.local` file.
 
 ## API Routes
 
